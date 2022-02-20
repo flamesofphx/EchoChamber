@@ -1,5 +1,4 @@
-# hello-world
-//Note: Needs updated for recent years
+# Echo Chamge
 
 I have been working with computers, and conducting various technical or artistic hobbies since I was 5 years old. My first pc was a DAK 8086, and my first gaming console was a Commodore 64. I love taking apart anything and everything. This usually results in the creation of either really cool devices, or the use of a lot of duct tape. I have a BA in Integrative Studies from ASU, my primary concentration was education, with minors in engineering & geology. I consider myself a jack of all trades, and a master in a very specific set of things.
 
